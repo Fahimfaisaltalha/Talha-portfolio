@@ -124,3 +124,17 @@ nav li{
     font-size: 30px;
     font-weight: 700;
    }
+   .resume-container{
+    display: flex;
+    gap: 70px;
+    
+    
+   }
+   .resume-container hr{
+    margin: 30px;
+   }
+   .download-cv{
+    text-align: center;
+   margin-top: 40px;
+}
+  
