@@ -94,6 +94,9 @@ nav li{
         width:1140px ;
         margin: 0 auto;
     }
+    main section{
+       margin-top: 130px;
+    }
     .about-info-container{
         display: flex;
         justify-content: space-around;
@@ -105,4 +108,19 @@ nav li{
     #what-i-do{
         padding: 30px 150px;
     }
+   .skill-container{
+    display: flex;
    
+   }
+   .skill {
+    margin: 10px;
+    padding:30px ;
+    gap: 24px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0,0,0,0.06);
+   }
+   .resume-column-tital{
+    font-size: 30px;
+    font-weight: 700;
+   }
